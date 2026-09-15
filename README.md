@@ -1,2 +1,2 @@
 # fluorescence-distribution
-Increment-based downsampling approach to calculate distribution of a fluorescent signal across 50 bacterial cells
+Increment-based downsampling approach to normalise distribution of a fluorescent signal across 50 bacterial cells
